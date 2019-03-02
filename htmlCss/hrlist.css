@@ -1,0 +1,10 @@
+ul#menu li
+{
+ display:inline;
+ background-color: blue;
+    color: white;
+    padding: 20px 20px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
+  
